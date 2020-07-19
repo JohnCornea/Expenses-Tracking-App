@@ -1,3 +1,3 @@
 # Expenses-Tracking-App
-Expenses Tracking App built with React.
-Hooks
+Expenses Tracking App built with React
+Hooks & Context
